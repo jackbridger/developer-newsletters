@@ -1,4 +1,4 @@
-A list of developer newsletters, with information on how to sponsor them. Curated by the team at [iOS Dev Tools](https://iosdev.tools/).
+A list of 140 developer newsletters, with information on how to sponsor them. Curated by the team at [iOS Dev Tools](https://iosdev.tools/).
 
 Please feel free to make any additions or improvements
 
