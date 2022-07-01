@@ -8,15 +8,15 @@ Please feel free to make any additions or improvements
 | Appcoda  | https://www.appcoda.com/ | Must-read Swift & iOS programming articles that take your skills to the next level.  | 7000 |  |
 | iOS Goodies | https://ios-goodies.com/ | weekly iOS newsletter curated by Marius Constantinescu |  |  |
 | Node Weekly | https://nodeweekly.com/ | A free, once–weekly e-mail round-up of Node.js news and articles. | 59556 | POA - cooper press |
-| JavaScript Weekly | javascriptweekly.com | JavaScript Weekly is aimed at JavaScript developers and web developers with an interest in JavaScript, Angular, React, Node.js, and related technologies. | 170,000 | POA - cooper press |
-| Frontend Focus | frontendfoc.us | A newsletter for those in the web design, web development, and browser-based technology spaces. | 77064 | POA - cooper press |
-| Ruby Weekly | rubyweekly.com | the most popular newsletter in the Ruby and Rails communities. | 41871 | POA - cooper press |
-| Golang Weekly | golangweekly.com | Golang Weekly is the leading email publication for developers using Google’s server-side programming language. | 34600 | POA - cooper press |
-| React Status | react.statuscode.com | A publication focused on the increasingly popular open-source JavaScript library, React. | 53116 | POA - cooper press |
-| Serverless Status | serverless.email | A weekly newsletter on serverless and function-as-a-service (FaaS) architectures and platforms including AWS Lambda and Azure Functions. | 7767 | POA - cooper press |
-| Postgres Weekly | postgresweekly.com | Postgres Weekly is dedicated to the open source PostgreSQL relational database management system, curated by one of the world’s foremost Postgres experts — Craig Kerstiens. | 15942 | POA - cooper press |
-| JAMstacked | jamstack.email | An email update on the evolving JAMstack ecosystem. | 3535 | POA - cooper press |
-| Deno Weekly | denoweekly.com | A weekly roundup of news, tutorials and projects from the land of Deno, the newest JavaScript runtime on the block. | unknown | POA - cooper press |
+| JavaScript Weekly | https://javascriptweekly.com | JavaScript Weekly is aimed at JavaScript developers and web developers with an interest in JavaScript, Angular, React, Node.js, and related technologies. | 170,000 | POA - cooper press |
+| Frontend Focus | https://frontendfoc.us | A newsletter for those in the web design, web development, and browser-based technology spaces. | 77064 | POA - cooper press |
+| Ruby Weekly | https://rubyweekly.com | the most popular newsletter in the Ruby and Rails communities. | 41871 | POA - cooper press |
+| Golang Weekly | https://golangweekly.com | Golang Weekly is the leading email publication for developers using Google’s server-side programming language. | 34600 | POA - cooper press |
+| React Status | https://react.statuscode.com | A publication focused on the increasingly popular open-source JavaScript library, React. | 53116 | POA - cooper press |
+| Serverless Status | https://serverless.email | A weekly newsletter on serverless and function-as-a-service (FaaS) architectures and platforms including AWS Lambda and Azure Functions. | 7767 | POA - cooper press |
+| Postgres Weekly | https://postgresweekly.com | Postgres Weekly is dedicated to the open source PostgreSQL relational database management system, curated by one of the world’s foremost Postgres experts — Craig Kerstiens. | 15942 | POA - cooper press |
+| JAMstacked | https://jamstack.email | An email update on the evolving JAMstack ecosystem. | 3535 | POA - cooper press |
+| Deno Weekly | https://denoweekly.com | A weekly roundup of news, tutorials and projects from the land of Deno, the newest JavaScript runtime on the block. | unknown | POA - cooper press |
 | Cooper Press | https://cooperpress.com/ | Keeping developers informed | 482,000 | Cooper own a ton of publications listed here |
 | Hacker Newsletter | https://hackernewsletter.com/ | Since 2010, we've put out a weekly newsletter of the best articles on startups, technology, programming, and more. All links are curated by hand from Hacker News. Join 60,000+ other subscribers and don't miss another week. Note: not affiliated with YC  | 60000 |  |
 | Console Dev | https://console.dev/ | Discover the best tools for developers.  | 22K+ SUBSCRIBERS | POA https://console.dev/advertise/ |
