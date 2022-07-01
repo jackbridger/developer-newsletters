@@ -1,8 +1,10 @@
 ## A list of 140 developer newsletters, with information on how to sponsor them. 
 
 ### Curated by the team at [iOS Dev Tools](https://iosdev.tools/).
+        
+Please feel free to make any additions or improvements here. 
 
-Please feel free to make any additions or improvements
+Also available in [a Notion table](https://www.notion.so/bitreach/Developer-Newsletters-1320315a0f314e76b2016b39359cb560)
 
 | Name | Website | Description | Reach | Sponsor info (if known) |
 | --- | --- | --- | --- | --- |
