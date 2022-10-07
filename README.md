@@ -11,7 +11,7 @@ Also available in [a Notion table](https://www.notion.so/bitreach/Developer-News
 | iOS Dev Tools | https://iosdev.tools/ | Weekly newsletter showcasing our favourite tools for iOS developers | 2,800+ subscribers | https://iosdev.tools/pages/sponsorship |
 | Appcoda  | https://www.appcoda.com/ | Must-read Swift & iOS programming articles that take your skills to the next level.  | 7000 |  |
 | iOS Goodies | https://ios-goodies.com/ | weekly iOS newsletter curated by Marius Constantinescu |  |  |
-|  iOS Code Review | https://ioscodereview.com/ | Bi-weekly newsletter amplifying code improvement tips from the Apple developer community | 1500+ | https://ioscodereview.notion.site/Sponsorship-1a12f0ff50a240298a699d65224fd398 |
+|  iOS Code Review | https://ioscodereview.com/ | Bi-weekly newsletter amplifying code improvement tips from the Apple developer community | 1500+ | https://ioscodereview.com/sponsor |
 | Node Weekly | https://nodeweekly.com/ | A free, once–weekly e-mail round-up of Node.js news and articles. | 59556 | POA - cooper press |
 | JavaScript Weekly | https://javascriptweekly.com | JavaScript Weekly is aimed at JavaScript developers and web developers with an interest in JavaScript, Angular, React, Node.js, and related technologies. | 170,000 | POA - cooper press |
 | Frontend Focus | https://frontendfoc.us | A newsletter for those in the web design, web development, and browser-based technology spaces. | 77064 | POA - cooper press |
