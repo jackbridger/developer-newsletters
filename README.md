@@ -105,6 +105,7 @@ Also available in [a Notion table](https://www.notion.so/bitreach/Developer-News
 | Awesome Node.JS | https://inboxreads.co/n/awesome-node.js-newsletter | A weekly overview of the most popular Node.js news, articles and modules. |  | https://www.paved.com/users/sign_up?user_type=advertiser&profile_view=true |
 | TypeScript Weekly | https://typescript-weekly.com/?ref=inboxreads | The best TypeScript links every week, right in your inbox. |  |  |
 | Synk | https://inboxreads.co/n/synk | A biweekly web dev newsletter with articles, discussions and videos, handpicked by two devs. Keep in sync, without the bullshit. |  |  |
+| Perl Weekly | https://perlweekly.com | Weekly newsletter about all things Perl and Raku | 4,500+ subscribers | Sponsorship details: https://perlweekly.com/sponsors.html |
 | Next JS | https://nextjsnews.com/?ref=inboxreads | Next.js focused newsletter. Upcoming features, best articles, tools, and plugins |  |  |
 | SemiColon & Sons | https://www.semicolonandsons.com/?ref=inboxreads | Screencasts showing programmer/entrepreneurs how to build and grow a software business |  |  |
 | Bizarro News | https://bizzarodevs.com/ | A monthly newsletter with all the weird and wonderful tech news. |  |  |
