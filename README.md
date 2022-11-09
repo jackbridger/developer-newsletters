@@ -148,4 +148,4 @@ Also available in [a Notion table](https://www.notion.so/bitreach/Developer-News
 | Retrospective fudge | https://infinum.com/retrospective-fudge/ | Fresh agile-related news curated by the QA and PM teams. |  |  |
 | Kotlin Weekly | http://www.kotlinweekly.net/ | Your weekly dose of Kotlin. | 22,907 subscribers | http://www.kotlinweekly.net/ |
 | objc | https://www.objc.io/newsletter/ | objc publishes books, videos, and articles on advanced techniques for iOS and macOS development. |  |  |
-| API Developer Weekly | https://us2.list-manage.com/subscribe?u=5005148108dfbac726f74e31e&id=239e48d26e | API Developer Weekly is a weekly newsletter that is hyper-focused on the business, design, development, and deployment of APIs for web and mobile apps.  |  3000+ subscribers |  |
+| API Developer Weekly | https://apideveloperweekly.com/ | API Developer Weekly is a weekly newsletter that is hyper-focused on the business, design, development, and deployment of APIs for web and mobile apps.  |  3000+ subscribers |  |
