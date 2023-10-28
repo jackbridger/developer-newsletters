@@ -6,7 +6,6 @@ Also available in [a Notion table](https://www.notion.so/bitreach/Developer-News
 
 | Name | Website | Description | Reach | Sponsor info (if known) |
 | --- | --- | --- | --- | --- |
-| iOS Dev Tools | https://iosdev.tools/ | Weekly newsletter showcasing our favourite tools for iOS developers | 2,800+ subscribers | https://iosdev.tools/pages/sponsorship |
 | Appcoda  | https://www.appcoda.com/ | Must-read Swift & iOS programming articles that take your skills to the next level.  | 7000 |  |
 | iOS Goodies | https://ios-goodies.com/ | weekly iOS newsletter curated by Marius Constantinescu |  |  |
 |  iOS Code Review | https://ioscodereview.com/ | Bi-weekly newsletter amplifying code improvement tips from the Apple developer community | 1500+ | https://ioscodereview.com/sponsor |
