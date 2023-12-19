@@ -148,3 +148,4 @@ Also available in [a Notion table](https://www.notion.so/bitreach/Developer-News
 | Kotlin Weekly | http://www.kotlinweekly.net/ | Your weekly dose of Kotlin. | 22,907 subscribers | http://www.kotlinweekly.net/ |
 | objc | https://www.objc.io/newsletter/ | objc publishes books, videos, and articles on advanced techniques for iOS and macOS development. |  |  |
 | API Developer Weekly | https://apideveloperweekly.com/ | API Developer Weekly is a weekly newsletter that is hyper-focused on the business, design, development, and deployment of APIs for web and mobile apps.  |  3000+ subscribers |  |
+| Unzip.dev - Developer Trends Newsletter | https://unzip.dev | Discover the latest dev trends through a 5-min intro, one trend at a time. Zero spam, sent once per month: low volume, high quality. | 3700+ subscribers | https://unzip.dev/sponsor/ |
