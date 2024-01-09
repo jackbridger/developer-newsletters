@@ -148,3 +148,4 @@ Also available in [a Notion table](https://www.notion.so/bitreach/Developer-News
 | objc | https://www.objc.io/newsletter/ | objc publishes books, videos, and articles on advanced techniques for iOS and macOS development. |  |  |
 | The Real Python Newsletter | https://realpython.com/newsletter/ | Weekly programming and career Tips for Python Developers, including short & sweet "Python Tricks" code snippets | 341,217 subscribers | https://realpython.com/sponsorships/ |
 | API Developer Weekly | https://apideveloperweekly.com/ | API Developer Weekly is a weekly newsletter that is hyper-focused on the business, design, development, and deployment of APIs for web and mobile apps.  |  3000+ subscribers |  |
+| Unzip.dev - Developer Trends Newsletter | https://unzip.dev | Discover the latest dev trends through a 5-min intro, one trend at a time. Zero spam, sent once per month: low volume, high quality. | 3700+ subscribers | https://unzip.dev/sponsor/ |
