@@ -2,6 +2,8 @@
         
 Please feel free to make any additions or improvements here. 
 
+If you like this list, check out [Scaling DevTools](https://podcast.scalingdevtools.com/), a podcast about Developer Tools
+
 Also available in [a Notion table](https://www.notion.so/bitreach/Developer-Newsletters-1320315a0f314e76b2016b39359cb560)
 
 | Name | Website | Description | Reach | Sponsor info (if known) |
