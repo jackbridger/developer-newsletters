@@ -10,7 +10,7 @@ Also available in [a Notion table](https://www.notion.so/bitreach/Developer-News
 | --- | --- | --- | --- | --- |
 | Appcoda  | https://www.appcoda.com/ | Must-read Swift & iOS programming articles that take your skills to the next level.  | 7000 |  |
 | iOS Goodies | https://ios-goodies.com/ | weekly iOS newsletter curated by Marius Constantinescu |  |  |
-|  iOS Code Review | https://ioscodereview.com/ | Bi-weekly newsletter amplifying code improvement tips from the Apple developer community | 1500+ | https://ioscodereview.com/sponsor |
+| iOS Code Review | https://ioscodereview.com/ | Bi-weekly newsletter amplifying code improvement tips from the Apple developer community | 3000+ | https://ioscodereview.com/sponsor |
 | Quastor | https://www.quastor.org/ | A Backend Engineering-focused newsletter that covers topics like data engineering, ML engineering, backend dev and more | 40,000 | https://www.quastor.org/sponsorship |
 | Node Weekly | https://nodeweekly.com/ | A free, once–weekly e-mail round-up of Node.js news and articles. | 59556 | POA - cooper press |
 | JavaScript Weekly | https://javascriptweekly.com | JavaScript Weekly is aimed at JavaScript developers and web developers with an interest in JavaScript, Angular, React, Node.js, and related technologies. | 170,000 | POA - cooper press |
