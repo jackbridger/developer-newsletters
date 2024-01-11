@@ -8,6 +8,7 @@ Also available in [a Notion table](https://www.notion.so/bitreach/Developer-News
 
 | Name | Website | Description | Reach | Sponsor info (if known) |
 | --- | --- | --- | --- | --- |
+| Scaling DevTools  | https://newsletter.scalingdevtools.com/ | A newsletter on building & growing developer tools  | 100+ |  |
 | Appcoda  | https://www.appcoda.com/ | Must-read Swift & iOS programming articles that take your skills to the next level.  | 7000 |  |
 | iOS Goodies | https://ios-goodies.com/ | weekly iOS newsletter curated by Marius Constantinescu |  |  |
 | iOS Code Review | https://ioscodereview.com/ | Bi-weekly newsletter amplifying code improvement tips from the Apple developer community | 3000+ | https://ioscodereview.com/sponsor |
