@@ -17,6 +17,7 @@ Also available in [a Notion table](https://www.notion.so/bitreach/Developer-News
 | JavaScript Weekly | https://javascriptweekly.com | JavaScript Weekly is aimed at JavaScript developers and web developers with an interest in JavaScript, Angular, React, Node.js, and related technologies. | 170,000 | POA - cooper press |
 | Frontend Focus | https://frontendfoc.us | A newsletter for those in the web design, web development, and browser-based technology spaces. | 77064 | POA - cooper press |
 | Ruby Weekly | https://rubyweekly.com | the most popular newsletter in the Ruby and Rails communities. | 41871 | POA - cooper press |
+| Short Ruby Newsletter | https://newsletter.shortruby.com | It is a Monday morning summary of the articles, discussions, and news from the Ruby community. | 4200 | https://newsletter.shortruby.com/p/sponsorship-packages |
 | Golang Weekly | https://golangweekly.com | Golang Weekly is the leading email publication for developers using Google’s server-side programming language. | 34600 | POA - cooper press |
 | React Status | https://react.statuscode.com | A publication focused on the increasingly popular open-source JavaScript library, React. | 53116 | POA - cooper press |
 | Serverless Status | https://serverless.email | A weekly newsletter on serverless and function-as-a-service (FaaS) architectures and platforms including AWS Lambda and Azure Functions. | 7767 | POA - cooper press |
