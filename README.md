@@ -138,6 +138,7 @@ Also available in [a Notion table](https://www.notion.so/bitreach/Developer-News
 | Recode Daily | https://voxmediaevents.com/recode | Uncovering and explaining how our digital world is changing - and changing us. |  |  |
 | Maker Mind | https://nesslabs.com/newsletter | Maker Mind is your weekly dose of mindful productivity. Discover neuroscience-based strategies to cultivate your curiosity, maximise your productivity, and dare to create. | 40,000+ subscribers |  |
 | DotNetCurry | https://www.dotnetcurry.com/whysubscribe.htm | Plenty of articles on C#, VB.NET, ASP.NET, MVC, AJAX, Silverlight, LINQ, jQuery, JavaScript, Windows Forms, Interview Questions, VSTS, Expression Web, Office 2007, Windows Vista, Product Reviews, Interviews and much more. | 1,071 subscribers |  |
+| ASP.NET Core News | https://aspnetcore.news/ | ASP.NET Core News is a weekly newsletter about ASP.NET Core, MVC, Blazor, SignalR, and much more. | 2,070 subscribers | https://aspnetcore.news/media-kit/ |
 | HeyDesigner | https://heydesigner.com/ | HeyDesigner  is the go-to newsletter  for product people, UXers, PMs, and design engineers. |  | https://heydesigner.com/sponsorship/ |
 | Web Designer Depot | https://www.webdesignerdepot.com/ | Get exclusive access to freebies and news | 528,875 subscribers | https://www.webdesignerdepot.com/contact/?sm=advertise |
 | The Web Designer | https://the-webdesigner.co/ | Weekly insights, tips & strategies for growing your skills and earning more money doing what you love. | 18,600+ subscribers | https://the-webdesigner.co/advertise/ |
