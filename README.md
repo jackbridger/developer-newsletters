@@ -20,7 +20,6 @@ Also available in [a Notion table](https://www.notion.so/bitreach/Developer-News
 | Short Ruby Newsletter | https://newsletter.shortruby.com | It is a Monday morning summary of the articles, discussions, and news from the Ruby community. | 4200 | https://newsletter.shortruby.com/p/sponsorship-packages |
 | Golang Weekly | https://golangweekly.com | Golang Weekly is the leading email publication for developers using Google’s server-side programming language. | 34600 | POA - cooper press |
 | React Status | https://react.statuscode.com | A publication focused on the increasingly popular open-source JavaScript library, React. | 53116 | POA - cooper press |
-| Serverless Status | https://serverless.email | A weekly newsletter on serverless and function-as-a-service (FaaS) architectures and platforms including AWS Lambda and Azure Functions. | 7767 | POA - cooper press |
 | Postgres Weekly | https://postgresweekly.com | Postgres Weekly is dedicated to the open source PostgreSQL relational database management system, curated by one of the world’s foremost Postgres experts — Craig Kerstiens. | 15942 | POA - cooper press |
 | JAMstacked | https://jamstack.email | An email update on the evolving JAMstack ecosystem. | 3535 | POA - cooper press |
 | Deno Weekly | https://denoweekly.com | A weekly roundup of news, tutorials and projects from the land of Deno, the newest JavaScript runtime on the block. | unknown | POA - cooper press |
@@ -42,7 +41,6 @@ Also available in [a Notion table](https://www.notion.so/bitreach/Developer-News
 | Sitepoint | https://www.sitepoint.com/newsletters/ | Get the freshest resources and stories for developers, designers, and digital creators in your inbox each week. | 450,000 Email subscribers | The minimum campaign spend is $1,000 USD https://www.sitepoint.com/advertise/ |
 | CSS Weekly | https://css-weekly.com/ | Weekly email roundup of CSS articles, tutorials, experiments, and tools curated by Zoran Jambor - Only the best articles - One click subscribe - Your email is safe | 33,500 subscribers | There's only one Sponsorship spot available for each newsletter issue, and you can book it for only $500. https://css-weekly.com/advertise/ |
 | PyCoder’s Weekly | https://pycoders.com/ | A free, weekly e-mail newsletter for those interested in Python development and various topics around Python and the communi‍‍‍ty. | 105,101 subscribers | https://pycoders.com/advertise |
-| DevOpsIsh | https://devopsish.com/ | Cloud Native, DevOps, GitOps, Open Source, industry news, culture, and the ‘ish between. | 6000 subscribers | $300 (fully booked for 2022) |
 | Smashing Newsletter | https://www.smashingmagazine.com/the-smashing-newsletter/ | Useful front-end & UX bits, delivered once a week. |  |  |
 | CSS-Tricks | https://css-tricks.com/subscription-options/ | CSS-Tricks is a community-based platform for web developers around the world. It’s known as the go-to site to find the latest techniques and front-end design and development. |  | https://css-tricks.com/advertising/#aa-sponsorship-opportunities |
 | Dev Tips | https://umaar.com/dev-tips/ | Developer tip, in the form of a gif, in your inbox each week |  |  |
