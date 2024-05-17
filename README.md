@@ -63,7 +63,7 @@ Also available in [a Notion table](https://www.notion.so/bitreach/Developer-News
 | DotNET Weekly | https://www.dotnetweekly.com/ | Weekly newsletter on everything .NET | 4,847 subscribers | https://www.dotnetweekly.com/ |
 | The Java Specialist’s Newsletter | https://www.javaspecialists.eu/archive/ |  | 70,000 subscribers |  |
 | Pony Foo Weekly  | https://ponyfoo.com/weekly | Pony Foo Weekly is a newsletter discussing interesting and trending topics around the web platform. It comes out once a week, on thursdays. |  | https://ponyfoo.com/weekly/sponsor Primary sponsorship - $200, Sponsored Link - $120, Job Listing - $80 |
-| WebTools Weekly | https://webtoolsweekly.com/ | Tools for Web Developers | 12,482 subscribers |  |
+| Web Tools Weekly | https://webtoolsweekly.com/ | Tools for Web Developers | 12,482 subscribers | https://webtoolsweekly.com/sponsor |
 | JavaScript Kicks | https://javascriptkicks.com/ | Get the best weekly JavaScript articles hand-picked by experienced developers |  | https://javascriptkicks.com/sponsor Sponsored posts cost $29 each |
 | UI Design Newsletter | https://mentor.silvestar.codes/reads/ | UI Dev Newsletter is a hand-curated list of articles, tutorials, opinions, and tools related to User Interface development that comes to your inbox every Monday. |  |  |
 | MySQL Newsletter | https://www.mysql.com/news-and-events/newsletter/ | MySQL publishes a monthly email newsletter with articles about new products, new features, white papers, customer case studies, upcoming webinars, training, and events of interest to the MySQL community. |  |  |
@@ -95,7 +95,7 @@ Also available in [a Notion table](https://www.notion.so/bitreach/Developer-News
 | Doctolib | https://doctolib.engineering/engineering-news-ruby-rails-react/ | From the latest Ruby Gem’s to awesome JavaScript articles that will make you REACT. Every week we pick out the best bits of content our team sends us for you to enjoy. |  |  |
 | .Net Insight | https://visualstudiomagazine.com/pages/topic-pages/visual-studio-code-news-and-how-to.aspx |  |  |  |
 | Visual Studio Code Newsletter  | https://www.research.net/r/vsc-newsletter | Information, tips, and resources about Visual Studio Code |  |  |
-| Vscode Newsletter | https://vscode.email/about | vscode.email is an email newsletter featuring, news, tips, and tools for the world's most popular code editor, Visual Studio Code. |  | Top Ad Combo | $30 Text Link Ad $10 https://vscode.email/sponsor |
+| VSCode.Email | https://vscode.email/ | vscode.email is an email newsletter featuring, news, tips, and tools for the world's most popular code editor, Visual Studio Code. | https://vscode.email/sponsor |
 | Laravel News  | https://laravel-news.com/newsletter | Stay up to date with the latest Laravel news, tutorials, packages, and more. Each week we curate the best new information and deliver it to your inbox every Sunday morning. | 33,000+ subscribers |  |
 | Office Insider | https://insider.office.com/en-us/newsletter |  |  |  |
 | Bytes | https://bytes.dev | Staying informed on the JavaScript ecosystem has never been so entertaining. Delivered every Monday, for free. | 105,311 subscribers | https://bytes.dev/advertise Premier Sponsor | 1 spot per issue - $3,650 Spot the Bug | 1 spot per issue - $1,225 Cool Bit link | 1 spot per issue - $920 Job Post | 3 spots per issue - $210 |
