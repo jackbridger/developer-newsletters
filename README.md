@@ -154,3 +154,4 @@ Also available in [a Notion table](https://www.notion.so/bitreach/Developer-News
 | Unzip.dev - Developer Trends Newsletter | https://unzip.dev | Discover the latest dev trends through a 5-min intro, one trend at a time. Zero spam, sent once per month: low volume, high quality. | 3700+ subscribers | https://unzip.dev/sponsor/ |
 | Syntax Snack Pack | https://syntax.fm/snackpack | Bi-weekly newsletter with tips & tricks, twitter hot takes, Syntax episode highlights, and other sweet stuff to make your life as a web developer even better. | 13,000+ subscribers |  |
 | Air Around AI | https://airaroundai.substack.com/ | Air Around AI is a weekly newsletter of the top news, best tutorials, product launches and super tips on AI, for leaders and changemakers. | 2000+ subscribers |  |
+| Kotlin Newsletter | https://jb.gg/kotlin.newsletter | A regular newsletter from the JetBrains team featuring the latest news and updates from the Kotlin ecosystem. |  |  |
