@@ -8,6 +8,7 @@ Also available in [a Notion table](https://www.notion.so/bitreach/Developer-News
 
 | Name | Website | Description | Reach | Sponsor info (if known) |
 | --- | --- | --- | --- | --- |
+| Reload in 10 | https://reloadin.net | Join other Packet Plumbers opening a weekly fresh packet of NetDevOps news in less time than it takes to reload a router | 500+ | |
 | Scaling DevTools  | https://newsletter.scalingdevtools.com/ | A newsletter on building & growing developer tools  | 100+ |  |
 | Appcoda  | https://www.appcoda.com/ | Must-read Swift & iOS programming articles that take your skills to the next level.  | 7000 |  |
 | iOS Goodies | https://ios-goodies.com/ | weekly iOS newsletter curated by Marius Constantinescu |  |  |
