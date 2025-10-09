@@ -156,3 +156,5 @@ Also available in [a Notion table](https://www.notion.so/bitreach/Developer-News
 | Air Around AI | https://airaroundai.substack.com/ | Air Around AI is a weekly newsletter of the top news, best tutorials, product launches and super tips on AI, for leaders and changemakers. | 2000+ subscribers |  |
 | Reload in 10 | https://reloadin.net | Join other Packet Plumbers opening a weekly fresh packet of NetDevOps news in less time than it takes to reload a router | 500+ | |
 | Tech Talks Weekly | https://techtalksweekly.io/ | A free weekly newsletter featuring all the recently published Software Engineering conference talks from over 100 conferences. | 7,100+ subscribers | https://techtalksweekly.io/p/sponsor |
+| JVM Weekly | https://jvm-weekly.com/ | From the latest updates in JVM languages like Java, Kotlin, and Scala to emerging technologies like GraalVM and Quarkus, this newsletter covers a wide range of topics that are of interest to developers and tech enthusiasts. | 4,500+ subscribers |  |
+
