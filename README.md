@@ -11,6 +11,7 @@ Also available in [a Notion table](https://www.notion.so/bitreach/Developer-News
 | Scaling DevTools  | https://newsletter.scalingdevtools.com/ | A newsletter on building & growing developer tools  | 100+ |  |
 | Appcoda  | https://www.appcoda.com/ | Must-read Swift & iOS programming articles that take your skills to the next level.  | 7000 |  |
 | iOS Goodies | https://ios-goodies.com/ | weekly iOS newsletter curated by Marius Constantinescu |  |  |
+| daily.dev Digest | https://daily.dev/ | daily.dev digest is the official a community driven newsletter of the most engaged developer stories from the daily.dev feed delivered as a concise, high signal update. | 500,000+ | https://business.daily.dev |
 | iOS Code Review | https://ioscodereview.com/ | Bi-weekly newsletter amplifying code improvement tips from the Apple developer community | 3000+ | https://ioscodereview.com/sponsor |
 | Quastor | https://www.quastor.org/ | A Backend Engineering-focused newsletter that covers topics like data engineering, ML engineering, backend dev and more | 40,000 | https://www.quastor.org/sponsorship |
 | Node Weekly | https://nodeweekly.com/ | A free, once–weekly e-mail round-up of Node.js news and articles. | 59556 | POA - cooper press |
@@ -156,3 +157,6 @@ Also available in [a Notion table](https://www.notion.so/bitreach/Developer-News
 | Air Around AI | https://airaroundai.substack.com/ | Air Around AI is a weekly newsletter of the top news, best tutorials, product launches and super tips on AI, for leaders and changemakers. | 2000+ subscribers |  |
 | Reload in 10 | https://reloadin.net | Join other Packet Plumbers opening a weekly fresh packet of NetDevOps news in less time than it takes to reload a router | 500+ | |
 | Marko Denic Tech| https://markodenic.tech | Weekly Web Dev newsletter with snippets and tutorials | 9000+ | https://markodenic.tech/sponsorship | 
+| Tech Talks Weekly | https://techtalksweekly.io/ | A free weekly newsletter featuring all the recently published Software Engineering conference talks from over 100 conferences. | 7,100+ subscribers | https://techtalksweekly.io/p/sponsor |
+| JVM Weekly | https://jvm-weekly.com/ | From the latest updates in JVM languages like Java, Kotlin, and Scala to emerging technologies like GraalVM and Quarkus, this newsletter covers a wide range of topics that are of interest to developers and tech enthusiasts. | 4,500+ subscribers |  |
+
