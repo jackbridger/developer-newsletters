@@ -11,6 +11,7 @@ Also available in [a Notion table](https://www.notion.so/bitreach/Developer-News
 | Scaling DevTools  | https://newsletter.scalingdevtools.com/ | A newsletter on building & growing developer tools  | 100+ |  |
 | Appcoda  | https://www.appcoda.com/ | Must-read Swift & iOS programming articles that take your skills to the next level.  | 7000 |  |
 | iOS Goodies | https://ios-goodies.com/ | weekly iOS newsletter curated by Marius Constantinescu |  |  |
+| daily.dev Digest | https://daily.dev/ | daily.dev digest is the official a community driven newsletter of the most engaged developer stories from the daily.dev feed delivered as a concise, high signal update. | 500,000+ | https://business.daily.dev |
 | iOS Code Review | https://ioscodereview.com/ | Bi-weekly newsletter amplifying code improvement tips from the Apple developer community | 3000+ | https://ioscodereview.com/sponsor |
 | Quastor | https://www.quastor.org/ | A Backend Engineering-focused newsletter that covers topics like data engineering, ML engineering, backend dev and more | 40,000 | https://www.quastor.org/sponsorship |
 | Node Weekly | https://nodeweekly.com/ | A free, once–weekly e-mail round-up of Node.js news and articles. | 59556 | POA - cooper press |
