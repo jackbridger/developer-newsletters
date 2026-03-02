@@ -158,5 +158,6 @@ Also available in [a Notion table](https://www.notion.so/bitreach/Developer-News
 | Reload in 10 | https://reloadin.net | Join other Packet Plumbers opening a weekly fresh packet of NetDevOps news in less time than it takes to reload a router | 500+ | |
 | Marko Denic Tech| https://markodenic.tech | Weekly Web Dev newsletter with snippets and tutorials | 9000+ | https://markodenic.tech/sponsorship | 
 | Tech Talks Weekly | https://techtalksweekly.io/ | A free weekly newsletter featuring all the recently published Software Engineering conference talks from over 100 conferences. | 7,100+ subscribers | https://techtalksweekly.io/p/sponsor |
-| JVM Weekly | https://jvm-weekly.com/ | From the latest updates in JVM languages like Java, Kotlin, and Scala to emerging technologies like GraalVM and Quarkus, this newsletter covers a wide range of topics that are of interest to developers and tech enthusiasts. | 4,500+ subscribers |  |
+| JVM Weekly | https://jvm-weekly.com/ | From the latest updates in JVM languages like Java, Kotlin, and Scala to emerging technologies like GraalVM and Quarkus, this newsletter covers a wide range of topics that are of interest to developers and tech enthusiasts. | 4,500+ subscribers |
+| The Sovereign Technologist | https://thesovereigntechnologist.com | Weekly frameworks for senior technologists building career leverage and products without quitting their jobs |
 
