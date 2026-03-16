@@ -62,6 +62,7 @@ Also available in [a Notion table](https://www.notion.so/bitreach/Developer-News
 | c# digest | https://csharpdigest.net/?utm_source=react&utm_medium=web&utm_campaign=footer | C# Digest is a weekly newsletter with the five most interesting stories 🗞 in .NET and C# | 20,400+ subscribers | https://csharpdigest.net/advertise |
 | DotNET Weekly | https://www.dotnetweekly.com/ | Weekly newsletter on everything .NET | 4,847 subscribers | https://www.dotnetweekly.com/ |
 | The Java Specialist’s Newsletter | https://www.javaspecialists.eu/archive/ |  | 70,000 subscribers |  |
+| JVM Weekly | https://www.jvm-weekly.com/ | A weekly newsletter covering the JVM ecosystem — Java, Kotlin, Scala, GraalVM, Quarkus and related technologies. | 5,000+ subscribers |  |
 | Pony Foo Weekly  | https://ponyfoo.com/weekly | Pony Foo Weekly is a newsletter discussing interesting and trending topics around the web platform. It comes out once a week, on thursdays. |  | https://ponyfoo.com/weekly/sponsor Primary sponsorship - $200, Sponsored Link - $120, Job Listing - $80 |
 | Web Tools Weekly | https://webtoolsweekly.com/ | Tools for Web Developers | 12,482 subscribers | https://webtoolsweekly.com/sponsor |
 | JavaScript Kicks | https://javascriptkicks.com/ | Get the best weekly JavaScript articles hand-picked by experienced developers |  | https://javascriptkicks.com/sponsor Sponsored posts cost $29 each |
