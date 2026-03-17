@@ -160,4 +160,4 @@ Also available in [a Notion table](https://www.notion.so/bitreach/Developer-News
 | Marko Denic Tech| https://markodenic.tech | Weekly Web Dev newsletter with snippets and tutorials | 9000+ | https://markodenic.tech/sponsorship | 
 | Tech Talks Weekly | https://techtalksweekly.io/ | A free weekly newsletter featuring all the recently published Software Engineering conference talks from over 100 conferences. | 7,100+ subscribers | https://techtalksweekly.io/p/sponsor |
 | JVM Weekly | https://jvm-weekly.com/ | From the latest updates in JVM languages like Java, Kotlin, and Scala to emerging technologies like GraalVM and Quarkus, this newsletter covers a wide range of topics that are of interest to developers and tech enthusiasts. | 4,500+ subscribers |  |
-
+| ByteByteGo | https://bestnewsletters.xyz/newsletters/bytebytego | System design simplified. ByteByteGo provides visual and easy-to-understand explanations of complex architectural patterns used by big tech companies. | 1mi+ subscribers | https://blog.bytebytego.com/p/newsletter-sponsorships-471 |
