@@ -45,7 +45,12 @@ Also available in [a Notion table](https://www.notion.so/bitreach/Developer-News
 | Smashing Newsletter | https://www.smashingmagazine.com/the-smashing-newsletter/ | Useful front-end & UX bits, delivered once a week. |  |  |
 | CSS-Tricks | https://css-tricks.com/subscription-options/ | CSS-Tricks is a community-based platform for web developers around the world. It’s known as the go-to site to find the latest techniques and front-end design and development. |  | https://css-tricks.com/advertising/#aa-sponsorship-opportunities |
 | Dev Tips | https://umaar.com/dev-tips/ | Developer tip, in the form of a gif, in your inbox each week |  |  |
-| TLDR Newsletter | https://tldr.tech | Byte sized news for busy techies. TLDR is a daily newsletter with links and TLDRs of the most interesting stories in startups, tech and programming! | 275,000 subscribers | $3500 ($12 CPM) per issue https://tldr.tech/sponsor |
+| TLDR | https://tldr.tech | A daily newsletter with the most interesting stories in tech, startups, and programming, in a 5-minute read. | 1.6M subscribers (7.2M+ across 13 editions) | https://advertise.tldr.tech |
+| TLDR AI | https://tldr.tech/ai | Daily newsletter on AI, ML, and data science: launches, research, and tools. | 1.1M subscribers | https://advertise.tldr.tech |
+| TLDR Dev | https://tldr.tech/dev | Daily newsletter on software engineering, AI agents, and developer tools. | 470K subscribers | https://advertise.tldr.tech |
+| TLDR DevOps | https://tldr.tech/devops | DevOps and platform engineering news, tools, and trends. | 340K subscribers | https://advertise.tldr.tech |
+| TLDR Data | https://tldr.tech/data | Data engineering and data science deep dives, tools, and trends. | 570K subscribers | https://advertise.tldr.tech |
+| TLDR InfoSec | https://tldr.tech/infosec | Information security news, research, and tools. | 400K subscribers | https://advertise.tldr.tech |
 | Pointer.io | http://www.pointer.io | A reading club for software developers |  | http://www.pointer.io/sponsorship/ |
 | Web Developer Weekly | https://webdesignerweekly.com | A newsletter for web designers, | 2,500+ subscribers | https://webdesignerweekly.com |
 | Sidebar.io newsletter | https://sidebar.io | Sidebar has been collecting the best design links of the day since October 2012. |  | https://sidebar.io/sponsor Sponsored links cost $950 per sponsorship |
