@@ -1,4 +1,4 @@
-## A list of 141 developer newsletters + how to sponsor them 
+## A list of 132 developer newsletters + how to sponsor them 
         
 Please feel free to make any additions or improvements here. 
 
@@ -48,7 +48,6 @@ Also available in [a Notion table](https://www.notion.so/bitreach/Developer-News
 | Pointer.io | http://www.pointer.io | A reading club for software developers |  | http://www.pointer.io/sponsorship/ |
 | Sidebar.io newsletter | https://sidebar.io | Sidebar has been collecting the best design links of the day since October 2012. |  | https://sidebar.io/sponsor Sponsored links cost $950 per sponsorship |
 | Technically Newsletter | https://technically.substack.com/subscribe | Technically explains software and hardware in a simple and engaging way so you can impress your boss. |  |  |
-| TechRepublic Daily Digest  | https://www.techrepublic.com/newsletters/ | Offer lots of different newsletters to choose from |  |  |
 | Frontend Weekly | https://frontendweekly.co/ | The best articles, links and news related to Frontend Development delivered once a week to your inbox |  | $150 per issue https://frontendweekly.co/sponsorship |
 | Database Weekly | https://dbweekly.com/ | A weekly round-up of database technology news and articles covering new developments, SQL, NoSQL, document databases, graph databases, and more | 10,263 subscribers |  |
 | React Digest | https://reactdigest.net/ | React Digest is a weekly newsletter with the five most interesting stories in front-end React development | 8,400+ subscribers | https://reactdigest.net/advertise |
@@ -86,19 +85,11 @@ Also available in [a Notion table](https://www.notion.so/bitreach/Developer-News
 | TypeScript Weekly | https://typescript-weekly.com/ | The best TypeScript links every week, right in your inbox. |  |  |
 | Perl Weekly | https://perlweekly.com | Weekly newsletter about all things Perl and Raku | 4,500+ subscribers | Sponsorship details: https://perlweekly.com/sponsors.html |
 | Bizarro News | https://bizzarodevs.com/ | A monthly newsletter with all the weird and wonderful tech news. |  |  |
-| Benedict’s Newsletter | https://www.ben-evans.com/newsletter/?utm_expid=28871-1.affbvy0FTPS9G7jQpDSjOw.0 | Each week Benedict shares his thoughts on what happened in tech that actually mattered, and what did it mean.  | 170,000+ subscribers |  |
-| The Download | https://www.technologyreview.com/newsletter-preferences | Receive the latest emerging technology news in your inbox. |  |  |
-| Box of Amazing | https://boxofamazing.com/ | A weekly digest covering knowledge, society, emerging technology, trends and extraordinary articles, hand-picked to broaden your mind and challenge your thinking. |  | https://docs.google.com/forms/d/10W5Xvb8UNWagKugGqWraSf4TK9w2C0D8857X9fXZmqU/viewform?edit_requested=true |
-| Tedium | https://tedium.co/ | Internet obsessive Ernie Smith’s long dive towards the end of the long tail is still going strong nearly seven years in, and the only thing missing is your inbox. Sign up to get missives from Tedium twice a week. | 12,000+ subscribers | https://tedium.co/advertising |
 | WpMail.me | http://wpmail.me/ | A free WordPress Newsletter, once a week, with a round-up of WordPress news and articles | 9,900+ subscribers | http://wpmail.me/advertising/ |
-| Dense discovery | https://www.densediscovery.com/ | a free weekly email with fresh discoveries at the intersection of design, technology, sustainability and culture. | 37,000+ | https://www.densediscovery.com/advertise/ |
 | Import AI Newsletter | https://us13.campaign-archive.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c |  |  |  |
 | SRE Weekly | https://sreweekly.com/ | Scalability, availability, incident response, automation. |  | https://sreweekly.com/sponsorship-information/ |
-| Product Hunt | https://www.producthunt.com/newsletter | A daily digest of the best of Product Hunt, created by your friends. |  |  |
 | Modern CTO Weekly | https://moderncto.io/newsletter/ | Useful, fun, intelligent content made just for you. | 70,000+ subscribers | https://moderncto.io/sponsorship/#packages-pricing |
 | Software Defined Talk | https://us1.campaign-archive.com/home/?u=ce6149b4008d62a08093a4fa6&id=5877922e21 | With a general focus on serverless, cloud, K8s, and DevOps, they break down the newsletter into useful, always relevant categories. |  |  |
-| Techmeme | https://www.techmeme.com/newsletter?from=tmd | Summarizes the day's top tech news and commentary with an assortment of detailed headlines and links. |  | sponsor@techmeme.com |
-| Maker Mind | https://nesslabs.com/newsletter | Maker Mind is your weekly dose of mindful productivity. Discover neuroscience-based strategies to cultivate your curiosity, maximise your productivity, and dare to create. | 40,000+ subscribers |  |
 | DotNetCurry | https://www.dotnetcurry.com/whysubscribe.htm | Plenty of articles on C#, VB.NET, ASP.NET, MVC, AJAX, Silverlight, LINQ, jQuery, JavaScript, Windows Forms, Interview Questions, VSTS, Expression Web, Office 2007, Windows Vista, Product Reviews, Interviews and much more. | 1,071 subscribers |  |
 | ASP.NET Core News | https://aspnetcore.news/ | ASP.NET Core News is a weekly newsletter about ASP.NET Core, MVC, Blazor, SignalR, and much more. | 2,070 subscribers | https://aspnetcore.news/media-kit/ |
 | HeyDesigner | https://heydesigner.com/ | HeyDesigner  is the go-to newsletter  for product people, UXers, PMs, and design engineers. |  | https://heydesigner.com/sponsorship/ |
