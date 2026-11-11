@@ -1,4 +1,4 @@
-## A list of 120 developer newsletters + how to sponsor them 
+## A list of 122 developer newsletters + how to sponsor them 
         
 Please feel free to make any additions or improvements here. 
 
@@ -28,6 +28,7 @@ Also available in [a Notion table](https://www.notion.so/bitreach/Developer-News
 | Software Lead Weekly | https://softwareleadweekly.com/ | Software Lead’s weekly newsletter is made for dedicated professionals who wish to remain informed about software development culture and the people behind it. Its main target audience is IT entrepreneurs, managers, and tech leaders. | 30,000 | Not sure if they do sponsors |
 | No CS Degree | https://www.nocsdegree.com/ | No CS Degree focuses on interviewing successful self-taught developers, or developers who learned how to code in boot camps. In general, they are making a community of developers who don’t have a four-year Computer Science degree. |  | https://www.nocsdegree.com/sponsor-no-cs-degree/ |
 | iOS Dev Weekly | https://iosdevweekly.com/ | hand-picked round-up of the best iOS development links every week. | 46,400 subscribers | $1800 per newsletter |
+| Libhunt | https://www.libhunt.com/advertise | Various sites/newsletters including Android, iOS, Node.js | 16,700 subscribers | https://www.libhunt.com/advertise |
 | Awesome IOS | https://ios.libhunt.com/newsletter | Your go-to iOS Toolbox. Our goal is to help you find the software and libraries you need. Made by developers for developers. The collection of libraries and resources is based on the Awesome iOS List and direct contributions here. | 18,000 | https://ios.libhunt.com/advertise |
 | Swift Developments | https://andybargh.com/swiftdevelopments/ | A weekly, hand curated newsletter containing a hand-picked selection of the best links, videos, tools and tutorials for people interested in designing and developing their own iOS, macOS, watchOS and tvOS apps using Swift. |  |  |
 | Swift Weekly | https://swiftweekly.com/ | Free Swift Development Newsletter Code examples, tutorials, screencasts and much more to learn Apples new programming language. |  | Every Swift Weekly issue has sponsorships available in two sections, a single Sponsored Link which is featured prominently under the Articles section and a Jobs section towards the end of the issue. Please get in touch if you would like to become a sponsor. |
@@ -90,6 +91,7 @@ Also available in [a Notion table](https://www.notion.so/bitreach/Developer-News
 | Fully Charged | https://www.bloomberg.com/account/newsletters | Get more of Bloomberg in your inbox. To subscribe, enter your email at the bottom of this page. |  |  |
 | Box of Amazing | https://boxofamazing.com/ | A weekly digest covering knowledge, society, emerging technology, trends and extraordinary articles, hand-picked to broaden your mind and challenge your thinking. |  | https://docs.google.com/forms/d/10W5Xvb8UNWagKugGqWraSf4TK9w2C0D8857X9fXZmqU/viewform?edit_requested=true |
 | Tedium | https://tedium.co/ | Internet obsessive Ernie Smith’s long dive towards the end of the long tail is still going strong nearly seven years in, and the only thing missing is your inbox. Sign up to get missives from Tedium twice a week. | 12,000+ subscribers | https://tedium.co/advertising |
+| The information | https://www.theinformation.com/ | In-depth tech stories you won't find anywhere else |  |  |
 | CB Insights | https://www.cbinsights.com/newsletter/ | The newsletter that makes you smart about tech | 868,662 subscribers |  |
 | Quartz Daily Brief | https://qz.com/emails/daily-brief/ | The most important and interesting news from the global economy. | 500,000+ subscribers |  |
 | Technology Magazine | https://technologymagazine.com/ |  |  | https://technologymagazine.com/advertise |
