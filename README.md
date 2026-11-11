@@ -1,4 +1,4 @@
-## A list of 122 developer newsletters + how to sponsor them 
+## A list of 141 developer newsletters + how to sponsor them 
         
 Please feel free to make any additions or improvements here. 
 
@@ -88,22 +88,14 @@ Also available in [a Notion table](https://www.notion.so/bitreach/Developer-News
 | Bizarro News | https://bizzarodevs.com/ | A monthly newsletter with all the weird and wonderful tech news. |  |  |
 | Benedict’s Newsletter | https://www.ben-evans.com/newsletter/?utm_expid=28871-1.affbvy0FTPS9G7jQpDSjOw.0 | Each week Benedict shares his thoughts on what happened in tech that actually mattered, and what did it mean.  | 170,000+ subscribers |  |
 | The Download | https://www.technologyreview.com/newsletter-preferences | Receive the latest emerging technology news in your inbox. |  |  |
-| Fully Charged | https://www.bloomberg.com/account/newsletters | Get more of Bloomberg in your inbox. To subscribe, enter your email at the bottom of this page. |  |  |
 | Box of Amazing | https://boxofamazing.com/ | A weekly digest covering knowledge, society, emerging technology, trends and extraordinary articles, hand-picked to broaden your mind and challenge your thinking. |  | https://docs.google.com/forms/d/10W5Xvb8UNWagKugGqWraSf4TK9w2C0D8857X9fXZmqU/viewform?edit_requested=true |
 | Tedium | https://tedium.co/ | Internet obsessive Ernie Smith’s long dive towards the end of the long tail is still going strong nearly seven years in, and the only thing missing is your inbox. Sign up to get missives from Tedium twice a week. | 12,000+ subscribers | https://tedium.co/advertising |
-| The information | https://www.theinformation.com/ | In-depth tech stories you won't find anywhere else |  |  |
-| CB Insights | https://www.cbinsights.com/newsletter/ | The newsletter that makes you smart about tech | 868,662 subscribers |  |
-| Quartz Daily Brief | https://qz.com/emails/daily-brief/ | The most important and interesting news from the global economy. | 500,000+ subscribers |  |
-| Technology Magazine | https://technologymagazine.com/ |  |  | https://technologymagazine.com/advertise |
 | WpMail.me | http://wpmail.me/ | A free WordPress Newsletter, once a week, with a round-up of WordPress news and articles | 9,900+ subscribers | http://wpmail.me/advertising/ |
 | Dense discovery | https://www.densediscovery.com/ | a free weekly email with fresh discoveries at the intersection of design, technology, sustainability and culture. | 37,000+ | https://www.densediscovery.com/advertise/ |
 | Import AI Newsletter | https://us13.campaign-archive.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c |  |  |  |
-| Techcrunch | https://techcrunch.com |  |  | https://techcrunch.com/newsletters |
-| Futurism | https://futurism.com/newsletter | To keep in touch with the subjects shaping our future |  | advertising@futurism.com |
 | SRE Weekly | https://sreweekly.com/ | Scalability, availability, incident response, automation. |  | https://sreweekly.com/sponsorship-information/ |
 | Product Hunt | https://www.producthunt.com/newsletter | A daily digest of the best of Product Hunt, created by your friends. |  |  |
 | Modern CTO Weekly | https://moderncto.io/newsletter/ | Useful, fun, intelligent content made just for you. | 70,000+ subscribers | https://moderncto.io/sponsorship/#packages-pricing |
-| Wired | https://www.wired.com/newsletter?sourceCode=HeaderAndFooter |  |  |  |
 | Software Defined Talk | https://us1.campaign-archive.com/home/?u=ce6149b4008d62a08093a4fa6&id=5877922e21 | With a general focus on serverless, cloud, K8s, and DevOps, they break down the newsletter into useful, always relevant categories. |  |  |
 | Techmeme | https://www.techmeme.com/newsletter?from=tmd | Summarizes the day's top tech news and commentary with an assortment of detailed headlines and links. |  | sponsor@techmeme.com |
 | Maker Mind | https://nesslabs.com/newsletter | Maker Mind is your weekly dose of mindful productivity. Discover neuroscience-based strategies to cultivate your curiosity, maximise your productivity, and dare to create. | 40,000+ subscribers |  |
@@ -113,8 +105,6 @@ Also available in [a Notion table](https://www.notion.so/bitreach/Developer-News
 | Web Designer Depot | https://www.webdesignerdepot.com/ | Get exclusive access to freebies and news | 528,875 subscribers | https://www.webdesignerdepot.com/contact/?sm=advertise |
 | The Web Designer | https://the-webdesigner.co/ | Weekly insights, tips & strategies for growing your skills and earning more money doing what you love. | 18,600+ subscribers | https://the-webdesigner.co/advertise/ |
 | HackingUI | https://hackingui.com/auto-draft/ | Stumble on great design resources curated by a UI designer + front-end developer duo, Sagi Shrieber and David Tintner. |  |  |
-| Android Authority | https://www.androidauthority.com/newsletters/ | Get newsletters featuring news, reviews, deals and expert opinions from our team. | 500k subscribers (across brands) | https://partners.androidauthority.com/ |
-| Android Central Newsletter | https://www.androidcentral.com/newsletter | newsletter, which summarizes the most important news, editorials and how-tos and sends it to your inbox, every day! |  |  |
 | Kotlin Weekly | http://www.kotlinweekly.net/ | Your weekly dose of Kotlin. | 22,907 subscribers | http://www.kotlinweekly.net/ |
 | objc | https://www.objc.io/newsletter/ | objc publishes books, videos, and articles on advanced techniques for iOS and macOS development. |  |  |
 | The Real Python Newsletter | https://realpython.com/newsletter/ | Weekly programming and career Tips for Python Developers, including short & sweet "Python Tricks" code snippets | 341,217 subscribers | https://realpython.com/sponsorships/ |
@@ -130,3 +120,32 @@ Also available in [a Notion table](https://www.notion.so/bitreach/Developer-News
 | Refactoring | https://refactoring.fm/ | Weekly deep dives on engineering management and making your engineering team ship faster. Written by Luca Rossi. | 173,000+ subscribers | POA - matteo@refactoring.club |
 | Chain of Thought | https://newsletter.chainofthought.show/ | Weekly AI infrastructure and engineering strategy insights for engineering leaders. Companion to the Chain of Thought podcast. | 1000+ subscribers | https://sponsor.chainofthought.show |
 | La semana PHP | https://www.lasemanaphp.com/ | A free weekly newsletter in Spanish about PHP, Laravel, Symfony, WordPress and Drupal. Hand-picked links with a short note on why each one is worth reading. Every Tuesday since 2018. | 1,000+ | |
+| Latent Space | https://www.latent.space/ | Essays, podcast and AI news for AI engineers building with LLMs and agents. |  |  |
+| Simon Willison's Newsletter | https://simonw.substack.com/ | Simon Willison on LLMs, web engineering, open source, Python, SQLite and Datasette. | 75,000+ subscribers |  |
+| Ahead of AI | https://magazine.sebastianraschka.com/ | Sebastian Raschka on machine learning and LLMs: explainers, research roundups and from-scratch coding guides. | 231,000+ subscribers |  |
+| Elevate | https://addyo.substack.com/ | Addy Osmani on AI-assisted software engineering, coding agents and engineering effectiveness. | 47,000+ subscribers |  |
+| Interconnects | https://www.interconnects.ai/ | Nathan Lambert on frontier and open AI models, research and industry analysis. | 88,000+ subscribers |  |
+| The Batch | https://www.deeplearning.ai/the-batch/ | Weekly AI news and research roundup from DeepLearning.AI, with a letter from Andrew Ng. |  |  |
+| Dev Interrupted | https://devinterrupted.substack.com/ | AI-native development and engineering practice. Companion to the Dev Interrupted podcast. | 19,000+ subscribers |  |
+| System Design Newsletter | https://newsletter.systemdesign.one/ | System design and architecture explainers by Neo Kim. | 254,000+ subscribers |  |
+| Software Design: Tidy First? | https://newsletter.kentbeck.com/ | Kent Beck on software design, technique and the human side of building software. | 127,000+ subscribers |  |
+| Level Up Coding System Design Newsletter | https://blog.levelupcoding.com/ | Short system design explainers by Nikki Siapno. | 35,000+ subscribers |  |
+| Architecture Weekly | https://www.architecture-weekly.com/ | Software architecture resources and essays by Oskar Dudycz. | 12,000+ subscribers |  |
+| The Overflow | https://stackoverflow.blog/newsletter/ | Weekly newsletter from Stack Overflow with curated questions, blog posts and links. |  | https://stackoverflow.co/advertising/ |
+| This Week in Rust | https://this-week-in-rust.org/ | Weekly roundup of Rust news, events, learning resources and community updates. |  |  |
+| This Week in Rails | https://world.hey.com/this.week.in.rails | Weekly summary of recent commits and pull requests to the Rails framework. |  |  |
+| Django News | https://django-news.com/ | Weekly Django news, articles, projects and releases, curated by Jeff Triplett and Will Vincent. |  |  |
+| Awesome Python Weekly | https://python.libhunt.com/newsletter | Weekly digest of popular Python news, articles and open-source projects. | 15,000+ subscribers | https://python.libhunt.com/advertise |
+| PHP Weekly | https://www.phpweekly.com/ | Weekly hand-curated roundup of PHP articles, tutorials, podcasts, news and packages. |  |  |
+| Haskell Weekly | https://haskellweekly.news/ | Weekly hand-picked links about Haskell from around the web. |  |  |
+| Scala Times | https://scalatimes.com/ | Weekly Scala news digest covering articles, releases, videos and events. |  | https://www.scalatimes.com/banners |
+| Web Weekly | https://webweekly.email/ | Weekly frontend newsletter by Stefan Judis on web platform features, browser support and developer tools. | 6,400+ subscribers | https://webweekly.email/advertise/ |
+| tl;dr sec | https://tldrsec.com/ | Weekly security digest by Clint Gibler: tools, talks and resources, with a focus on AI and cloud security. | 90,000+ subscribers |  |
+| DevOps'ish | https://devopsish.com/ | Weekly digest of cloud native, DevOps and open source news by Chris Short. | 7,000+ subscribers | https://devopsish.com/sponsor/ |
+| Learn Kubernetes Weekly | https://kube.today/learn-kubernetes-weekly | Weekly Kubernetes articles, tutorials, tools, jobs and events. | 77,000 subscribers | https://learnkube.com/sponsorships |
+| Data Engineering Weekly | https://www.dataengineeringweekly.com/ | Weekly data engineering news, links and essays by Ananth Packkildurai. |  |  |
+| Deep (Learning) Focus | https://cameronrwolfe.substack.com/ | Long-form technical explainers on deep learning and LLM research by Cameron R. Wolfe. | 79,000+ subscribers |  |
+| LLM Watch | https://www.llmwatch.com/ | Weekly digest of LLM and AI agent research papers, explained for practitioners, by Pascal Biese. | 51,000+ subscribers |  |
+| Turing Post | https://www.turingpost.com/ | Articles and guides on ML, LLMs, agents and AI infrastructure, plus a weekly news digest. | 115,000+ subscribers |  |
+| The Sequence | https://thesequence.substack.com/ | ML and AI digest by Jesus Rodriguez with technical explainers, research summaries and weekly news. | 168,000+ subscribers |  |
+| Deep Learning Weekly | https://www.deeplearningweekly.com/ | Weekly roundup of deep learning papers, tools and industry news. | 252,000+ subscribers |  |
