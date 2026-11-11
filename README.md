@@ -1,4 +1,4 @@
-## A list of 140 developer newsletters + how to sponsor them 
+## A list of 120 developer newsletters + how to sponsor them 
         
 Please feel free to make any additions or improvements here. 
 
