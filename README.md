@@ -80,7 +80,7 @@ Also available in [a Notion table](https://www.notion.so/bitreach/Developer-News
 | VSCode.Email | https://vscode.email/ | vscode.email is an email newsletter featuring, news, tips, and tools for the world's most popular code editor, Visual Studio Code. | https://vscode.email/sponsor |
 | Laravel News  | https://laravel-news.com/newsletter | Stay up to date with the latest Laravel news, tutorials, packages, and more. Each week we curate the best new information and deliver it to your inbox every Sunday morning. | 33,000+ subscribers |  |
 | Bytes | https://bytes.dev | Staying informed on the JavaScript ecosystem has never been so entertaining. Delivered every Monday, for free. | 105,311 subscribers | https://bytes.dev/advertise Premier Sponsor | 1 spot per issue - $3,650 Spot the Bug | 1 spot per issue - $1,225 Cool Bit link | 1 spot per issue - $920 Job Post | 3 spots per issue - $210 |
-| Game Dev JS Weekly | https://gamedevjsweekly.com | Weekly, free newsletter all about HTML5 Game Development. | 6500+ subscribers |  |
+| Gamedev.js Weekly | https://gamedevjsweekly.com | Free Friday newsletter covering JavaScript and HTML5 game development, with curated articles, tutorials, tools, events, demos and games. | 8,000+ subscribers | https://gamedevjsweekly.com/sponsor |
 | Last Week in AWS | https://www.lastweekinaws.com/newsletter/ | Stay up to date on AWS changes and news. | 30,500+ subscribers | https://www.lastweekinaws.com/sponsorship/ |
 | TypeScript Weekly | https://typescript-weekly.com/ | The best TypeScript links every week, right in your inbox. |  |  |
 | Perl Weekly | https://perlweekly.com | Weekly newsletter about all things Perl and Raku | 4,500+ subscribers | Sponsorship details: https://perlweekly.com/sponsors.html |
