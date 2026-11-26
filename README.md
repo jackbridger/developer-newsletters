@@ -1,4 +1,4 @@
-## A list of 132 developer newsletters + how to sponsor them 
+## A list of 133 developer newsletters + how to sponsor them 
         
 Please feel free to make any additions or improvements here. 
 
@@ -88,6 +88,7 @@ Also available in [a Notion table](https://www.notion.so/bitreach/Developer-News
 | WpMail.me | http://wpmail.me/ | A free WordPress Newsletter, once a week, with a round-up of WordPress news and articles | 9,900+ subscribers | http://wpmail.me/advertising/ |
 | Import AI Newsletter | https://us13.campaign-archive.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c |  |  |  |
 | SRE Weekly | https://sreweekly.com/ | Scalability, availability, incident response, automation. |  | https://sreweekly.com/sponsorship-information/ |
+| AI SRE Weekly | https://www.linkedin.com/company/ai-sre-weekly/ | Weekly newsletter tracking the AI SRE category: vendor launches, funding, incident-automation research and what changed for on-call teams. |  |  |
 | Modern CTO Weekly | https://moderncto.io/newsletter/ | Useful, fun, intelligent content made just for you. | 70,000+ subscribers | https://moderncto.io/sponsorship/#packages-pricing |
 | Software Defined Talk | https://us1.campaign-archive.com/home/?u=ce6149b4008d62a08093a4fa6&id=5877922e21 | With a general focus on serverless, cloud, K8s, and DevOps, they break down the newsletter into useful, always relevant categories. |  |  |
 | DotNetCurry | https://www.dotnetcurry.com/whysubscribe.htm | Plenty of articles on C#, VB.NET, ASP.NET, MVC, AJAX, Silverlight, LINQ, jQuery, JavaScript, Windows Forms, Interview Questions, VSTS, Expression Web, Office 2007, Windows Vista, Product Reviews, Interviews and much more. | 1,071 subscribers |  |
